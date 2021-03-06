@@ -5,14 +5,14 @@
 # Add here list of hosts or ip adresses of pvwa dedicated machines
 # pvwa01.example.com
 # pvwa02.example.com
-10.2.0.155
+192.168.200.17
 
 
 [cpm]
 # Add here list of hosts or ip adresses of cpm dedicated machines
 # cpm01.example.com
 # cpm02.example.com
-10.2.0.155
+192.168.200.18
 
 
 [psm]
