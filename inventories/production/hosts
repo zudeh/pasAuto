@@ -19,7 +19,6 @@
 # Add here list of hosts or ip adresses of psm dedicated machines
 # psm01.example.com
 # psm02.example.com
-10.2.0.155
 
 
 [psmp]
